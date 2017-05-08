@@ -1,0 +1,188 @@
+.container{
+	background-color: #1e1e1e;
+	font-family: Impact, Charcoal, sans-serif;
+}
+
+#navbar{
+	margin-left: 0;
+	margin-right: 0;
+}
+
+/*--Home Page--*/
+
+.img{
+	margin-top: 7%;
+	margin-bottom: 6%;
+	margin-left: 2%;
+	margin-right: 1%;
+}
+
+#homepage{
+	margin-top: 3%;
+}
+
+.home-name{
+	margin-left: 11%;
+	margin-bottom: 6%;
+	color: #ededed;
+}
+
+.hometext{
+	color: #ededed;
+}
+
+.summary{
+	color: #ededed;
+	margin-top: 10%;
+	margin-left: 2%;
+}
+
+.summaryp{
+	color: #ededed;
+	margin-top: 5%;
+	margin-left: 2%;
+	font-size: 130%;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+/*--About Me--*/
+
+.jumbotron{
+	margin-top: 10px;
+}
+
+.title{
+	color: #fff;
+}
+
+.about{
+	background-image: url("../images/flower2.jpg");
+	
+	
+}
+
+.subs{
+	color: #212121;
+	font-size: 160%;
+	padding-top: 10px;
+	
+}
+
+.subs1{
+	color: #fff;
+	font-size: 160%;
+	padding-top: 10px;
+	
+}
+
+.aboutpp{
+	color:#cacaca;
+	font-size: 130%;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.aboutp{
+	color: #1e1e1e;
+	font-size: 130%;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.aboutx{
+	margin-top: 15px;
+	margin-bottom: 15px;
+	border: 2px solid #e8e7e7;
+    border-radius: 12px;
+	background-color: #e8e7e7;
+	padding: 8px;
+}
+
+.marketing{
+	margin-bottom: 30px;
+}
+
+/*--Photography--*/
+
+.page-header{
+	color: white;
+}
+
+.photo{
+	background-image: url("../images/leaf.jpg");
+}
+
+.gallery{
+	margin-bottom: 20px;
+}
+
+.pich{
+	color: #ededed;
+}
+
+.picp{
+	color: #ededed;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 130%;
+}
+
+/*--Design--*/
+
+.design{
+	background-image: url("../images/flower.jpg");
+}
+
+/*--Media--*/
+
+.med{
+	margin-bottom: 30px;
+	
+}
+
+.media{
+	background-image: url("../images/brick.jpg");
+}
+
+.mediap{
+	color: #ededed;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.mediah{
+	color: #ededed;
+}
+
+/*--Contact--*/
+
+.contact{
+	background-image: url("../images/trees.jpg");
+}
+
+.contactdet{
+	color: #ededed;
+}
+
+.contactp{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.contactrow{
+	margin-bottom: 15px;
+}
+
+ul{
+	text-decoration: none;
+	list-style-type: none;
+
+}
+
+/*--Body Footer--*/
+
+.footer{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+footer{
+	text-align: center;
+}
+
+
